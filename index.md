@@ -9,6 +9,6 @@ CS50 for the AP Classroom is based on CS50, Harvard University's introduction to
 
 \n\n
 
-<a ref="https://submit.cs50.io/invites/a002467b72e945eab463c55ae37d95a6">Make sure you're signed up for Beal's class here!</a>
+<a href="https://submit.cs50.io/invites/a002467b72e945eab463c55ae37d95a6">Make sure you're signed up for Beal's class here!</a>
 
 <iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
